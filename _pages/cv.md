@@ -9,51 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Work experience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
++ 2018 – present: *Associate Professor, Teaching Stream*, University of Toronto Scarborough
++ 2012-18: *Assistant Professor, Teaching Stream*, University of Toronto Scarborough
++ 2011: *Lecturer (Contractually Limited)*, University of Toronto Mississauga
++ 2010: *Sessional Lecturer*, - University of Toronto
++ 2009: *Postdoctoral Researcher*, Holland Bloorview Kids Rehabilitation Hospital
+	
+
+----
+
+### Education
++ PhD in Statistics, Carnegie Mellon University, 2008
++ MSc in Financial Mathematics, Warwick University, 2003
++ BSc in Statistics, Athens University of Economics & Business, 2002
+
+<!--
+----
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
+### Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+### Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  -->
+
