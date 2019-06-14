@@ -16,6 +16,8 @@ author_profile: true
 - (2008) Damouras S. <a href="files/thesis.pdf"><i>"Nonparametric Time Series Analysis Using Gaussian Processes"</i></a>. PhD Thesis, Carnegie Mellon University. August 2008.
 
 ## Non-refereed
+- (2019) Buro K, Damouras S, Gibbs A, Petkau J, Sheriff J, Stallard J, and White B. [Curriculum Guidelines for Canadian
+Undergraduate Programs in Statistics](https://ssc.ca/sites/default/files/imce/pdf/curriculum_guidelines_for_canadian_undergraduate_programs_in_statistics.pdf), Published by the Statistical Society of Canada, April 2019.
 - (2018) Damouras S, Kang S. [The Status of Statistics Education in Canada](https://ssc.ca/en/publications/ssc-liaison/vol-32-5-october-2018/status-statistics-education-canada), SSC Liaison Newsletter, vol. 32.5, Oct 2018.
 - (2018) Kang S, Damouras S, Pollanen M, Cater B. *Increasing Engagement in a Probability Course Through Novel Technically Enhanced Communication*, Proceedings of the 10th international Conference on Teaching Statistics.
 - (2009) Chau T, Damouras S. *Reply to: “On the risk of extracting relevant information from random data”*. Journal of Neural Engineering, October 2009, Vol 6.
