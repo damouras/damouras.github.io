@@ -1,19 +1,20 @@
-# main links links
 main:
+
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
 
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-    
- # - title: "Blog Posts"
- #   url: /year-archive/
-    
+    url: /talks/
+
   - title: "CV"
     url: /cv/
 
-  - title: "FAQ"
-    url: /FAQ/    
+  - title: "Program Supervision"
+    url: /program_supervision/
+
+  - title: "Other"
+    url: /other/    
+ 
