@@ -12,7 +12,7 @@ author_profile: true
 - (2010) Damouras S, Sedji&#263; E, Steele C M , Chau T. <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5419103"><i>"An online swallow detection algorithm based on the quadratic variation of dual-axis accelerometry"</i></a>. IEEE Transactions in Signal Processing. June 2010, volume 58, issue 6, pp. 3352-3359. 
 - (2010) Damouras S, Chang M, Sedji&#263; E, Chau T. <a href="http://www.ncbi.nlm.nih.gov/pubmed/20060298"><i>"An empirical examination of detrended fluctuation analysis for gait data"</i></a>. Gait & Posture, March 2010, volume 31, issue 3, pp. 336-340.
 - (2010) Schroeder B, Damouras S, Gill P. <a href="https://www.usenix.org/legacy/event/fast10/tech/full_papers/schroeder.pdf"><i>"Understanding latent sector errors and how to protect against them"</i></a>. Proceedings of the 8th Usenix Conference on File and Storage Technologies (FAST 2010). February 2010. 
-- (2008) Damouras S. <a href="files/thesis.pdf"><i>"Nonparametric Time Series Analysis Using Gaussian Processes"</i></a>. PhD Thesis, Carnegie Mellon University. August 2008.
+- (2008) Damouras S. <a href="/files/thesis.pdf"><i>"Nonparametric Time Series Analysis Using Gaussian Processes"</i></a>. PhD Thesis, Carnegie Mellon University. August 2008.
 
 ## Non-refereed
 - (2019) Buro K, Damouras S, Gibbs A, Petkau J, Sheriff J, Stallard J, and White B. [Curriculum Guidelines for Canadian
