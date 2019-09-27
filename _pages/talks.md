@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- (2019) Sotirios Damouras and Alison Gibbs. [Evolving Statistics Education for a Data Science World](/files/WSC_2019_Evolving_StatEd_for_DS.pdf). 62nd ISI World Statistics Congress, Kuala Lumpur Convention Centre, Malaysia, August 18-23, 2019.
+
+- (2019) Alison Gibbs and Sotirios Damouras. [Preparing our Students for Unknown Challenges](). The Western Conference on Science Education, University of Western Ontario, July 3-6, 2019.
 
 - (2019) Sohee Kang and Sotirios Damouras. Mathematics Classroom Collaborator (MC2): Technology for Democratizing the
 Classroom. 47th Annual Meeting of the Statistical Society of Canada, University of Calgary, May 26-29, 2019.
