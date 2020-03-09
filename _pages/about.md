@@ -13,7 +13,7 @@ I am an Associate Professor, Teaching Stream in the [Department of Computer & Ma
 
 **Contact**    
 Office: IC456 ([Instructional Centre](https://goo.gl/maps/v2urVg1z9X9P8AGC6))   
-Email: <sdamouras@utsc.utoronto.ca>   
+Email: <sotirios.damouras@utoronto.ca>   
 Phone: 416.287.7269   
 
 **Public Calendar**    
