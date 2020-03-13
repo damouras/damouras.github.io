@@ -5,21 +5,14 @@ permalink: /FAQ/
 author_profile: true
 ---
 
-## Statistics Specialist Program Supervision 
+## Program Supervision
 
-- *How do programs of study work at UTSC?* 
-	+ A program of study (PoSt) is a curated collection of courses, core & elective, on a particular subject. These collections of courses for various  programs of study are listed in the [Calendar](https://utsc.calendar.utoronto.ca/list-of-programs/s) under "Program Requirements". To get a UTSC degree, students needs to complete (among other things) one the following combinations of programs: a) One Specialist, b) Two Majors, or c) One Major & two Minors. For more information, check the [relevant section](https://utsc.calendar.utoronto.ca/6-understanding-degrees-programs-and-courses#6A) in the Calendar. Note that USTC students can only enroll in UTSC programs, not programs from other UofT campuses, and that all Specialist & Major programs in CMS have [admission requirements](https://www.utsc.utoronto.ca/cms/sites/utsc.utoronto.ca.cms/files/POSt%20admission%20requirements%202019.pdf). 
+Below are some FAQ about the specialist program in Statistics:
+I want to take course XYZ, but it has course ABC as a prerequisite. Can you give me a waiver for ABC? 
+   No, program supervisors cannot waive prerequisites; they can only waive program requirements. Only the instructor of a course has the final say on who gets to take the course (in the sense that he/she can remove you from the course without notice if you do not have the prerequisites or his/her explicit consent). Program supervisors can only give waivers for program requirements, but these do not automatically translate to prerequisite waivers.
+The program requires me to take course XYZ, but I have already taken course ABC which is an exclusion to XYZ. Can/should I still take XYZ? 
+  	Yes, you can/should still take XYZ as an extra course. Extra courses are like regular courses, with the exception that they do not carry credit and their mark is not included in your GPA calculation (the rational behind this is that you should not earn credit or improve you marks from taking courses on similar topics, even if they are at different levels). Extra courses can still count towards satisfying course prerequisites & program requirements, and your grade in them will still appear on your transcript.
 
-- *I want to take a course but don't have the prerequisites; can you let me take it?* 
-	+ No, program supervisors do not waive course prerequisites. At UTSC, it's the course instructor who decides whether a student can take the course without the prerequisites. The instructor can remove students from the course at any time without notice, if the students do not have the prerequisites or the instructor's explicit consent. Program supervisors can only waive program requirements, e.g. they can substitute a required course with a different course; but these do not automatically translate to prerequisite waivers. 
-	
-- *The program requires me to take a course, but I already have an exclusion to that course; can I still take it?*    
-     + Yes, you can still take courses which have some of your passed courses as exclusions. These will be marked as EXTRA courses in your transcript, and will not carry any credit, i.e. they will not be included in your GPA calculation (check the [relevant section](https://utsc.calendar.utoronto.ca/6-understanding-degrees-programs-and-courses#6C) in the Calendar). The rationale is that you should not earn credit or improve your marks from taking courses on similar subjects, even if they are at different levels. EXTRA courses can still count towards satisfying course prerequisites & program requirements, and their grade still appears on your transcript.
-
-- *Can I take a course from a different campus to satisfy a UTSC program requirement?* 
-	+ UTSC students can take up to 5.0 credits (10 courses) from other UofT campuses (St George & Mississauga). However, if you plan to use courses from other campuses to satisfy UTSC program requirements, *you have to get the program supervisor's permission*. I.e. these courses will not automatically satisfy UTSC program requirements, even if they are very similar/exclusive to UTSC courses. Moreover, if you are taking a course from another campus you are responsible for satisfying its prerequisites, regardless of the prerequisites for similar courses at UTSC.  In particular, St. George strictly enforces prerequisites for all their courses, and their [Calendar](https://fas.calendar.utoronto.ca/search-courses) explicitly mentions which UTSC courses are allowed as prerequisites.
-	
-	
 ## Academic References
 I am happy to provide references to students who want to pursue graduate studies. Nevertheless, in order for my references to be substantiated and effective, I require that you have taken at least two courses from me with marks above 70 (B-). If you want to ask for a reference, make sure you take all of the following steps:
 - Contact me at least two weeks before the due date; preferably well more in advance
@@ -31,7 +24,7 @@ I am happy to provide references to students who want to pursue graduate studies
 - Send me a list of all courses you took with me and of any other interaction we had (e.g. projects or TAships supervised)
 Note that if any of the above is missing, I reserve the right to decline your reference request.
 
-
+	
 ## Quantitative Finance Resources
 
 ### Professional Societies
@@ -45,6 +38,8 @@ Note that if any of the above is missing, I reserve the right to decline your re
 
 <h3>Software & Data</h3>
 <ul>
+<li><a href="http://cran.r-project.org/">R: open source statistical software</a></li>
+<li><a href="https://www.rstudio.com/">RStudio: IDE for R</a></li>
 <li><a href="https://www.rmetrics.org/">Rmetrics: collection of R packages for Quantitative Finance</a></li>
 <li><a href="http://quantlib.org/index.shtml">Quantlib: open source C++ library for Quantitative Finance</a></li>
 <li><a href="http://finance.yahoo.com/">Yahoo! Finance: free historical equity and indice data</a></li>
