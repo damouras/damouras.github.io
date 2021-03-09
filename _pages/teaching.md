@@ -7,6 +7,24 @@ author_profile: true
 
 List of courses I have taught (with links to content)
 
+### Winter 2021
++ STAA57H3 Introduction to Data Science
++ STAB41H3 Financial Derivatives
++ STAD70H3 Statistics & Finance II
+
+### Fall 2020
++ ACTB40H3 Fundamentals of Investment & Credit
++ STAB52H3 Introduction to Probability
+
+### Winter 2020
++ STAA57H3 Introduction to Data Science
++ STAB41H3 Financial Derivatives
++ STAD70H3 Statistics & Finance II
+
+### Fall 2019
++ STAB52H3 Introduction to Probability
++ STAD57H3 Time Series Analysis
+
 ### Winter 2019
 + [STAA57H3 Introduction to Data Science](https://damouras.github.io/STAA57_W19/)
 + STAB41H3 Financial Derivatives
