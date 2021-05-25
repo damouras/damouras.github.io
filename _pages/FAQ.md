@@ -26,9 +26,9 @@ I am happy to provide references to students who want to pursue graduate studies
 - For graduate study applications, send me a list with all the schools & programs you are applying to together with their application deadlines
 - Send me electronic copies of your:
 	+ Complete & most recent (unofficial) transcript
-	+ A headshot picture of yourself
 	+ Cover letter
 	+ Resume (if any)
+	+ Headshot photo of yourself	
 - Send me a list of all courses you took with me and of any other interaction we had (e.g. projects or TAships supervised)
 Note that if any of the above is missing, I reserve the right to decline your reference request.
 
