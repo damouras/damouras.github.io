@@ -21,6 +21,7 @@ I am happy to provide references to students who want to pursue graduate studies
 	+ Complete & most recent (unofficial) transcript
 	+ Cover letter
 	+ Resume (if any)
+	+ Headshot photo of yourself	
 - Send me a list of all courses you took with me and of any other interaction we had (e.g. projects or TAships supervised)
 Note that if any of the above is missing, I reserve the right to decline your reference request.
 
