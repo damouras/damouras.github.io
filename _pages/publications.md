@@ -7,9 +7,6 @@ author_profile: true
 
 ## Refereed 
 
-Damouras, S., Gibbs, A., and MacFeely, S. (2021) 
-887-898. DOI 10.3233/SJI-210851
-
 - (2021) Damouras S, Gibbs A, and MacFeely S. [Training Official Statisticians
 for Adaptive Statistical Practice.](https://content.iospress.com/download/statistical-journal-of-the-iaos/sji210851?id=statistical-journal-of-the-iaos/sji210851) Statistical Journal of the IAOS, 37(3), pp. 887-898.
 - (2018) Kang S, Pollanen M, Damouras S, Cater B. [Mathematics Classroom Collaborator (MC2): Technology for Democratizing the Classroom](https://link.springer.com/chapter/10.1007/978-3-319-96418-8_33), Lecture Notes in Computer Sciences, Vol 10931 
