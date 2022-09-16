@@ -7,6 +7,11 @@ author_profile: true
 
 ## Refereed 
 
+Damouras, S., Gibbs, A., and MacFeely, S. (2021) 
+887-898. DOI 10.3233/SJI-210851
+
+- (2021) Damouras S, Gibbs A, and MacFeely S. [Training Official Statisticians
+for Adaptive Statistical Practice.](DOI 10.3233/SJI-210851) Statistical Journal of the IAOS, 37(3), pp. 887-898.
 - (2018) Kang S, Pollanen M, Damouras S, Cater B. [Mathematics Classroom Collaborator (MC2): Technology for Democratizing the Classroom](https://link.springer.com/chapter/10.1007/978-3-319-96418-8_33), Lecture Notes in Computer Sciences, Vol 10931 
 - (2013) Sawchuk L A, Tripp L, Damouras S, Debono M. <a href="http://onlinelibrary.wiley.com/doi/10.1002/ajpa.22380/abstract"><i>"Situating mortality: quantifying crisis points and periods of stability"</i></a>. American Journal of Physical Anthropology, December 2013, volume 152, issue 4, pp. 459-70.
 - (2010) Damouras S, Sedji&#263; E, Steele C M , Chau T. <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5419103"><i>"An online swallow detection algorithm based on the quadratic variation of dual-axis accelerometry"</i></a>. IEEE Transactions in Signal Processing. June 2010, volume 58, issue 6, pp. 3352-3359. 
