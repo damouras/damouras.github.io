@@ -16,7 +16,7 @@ Office: IA4016 ([Sam Ibrahim Building](https://www.utsc.utoronto.ca/home/sites/u
 Email: <sotirios.damouras@utoronto.ca>   
 Phone: 416.287.7269   
 
-**Office Hours**    
+**Online Office Hours**    
 If you want to meet with me, you can [book a online appointment](https://calendly.com/sdamouras/office-hours?preview_source=et_card&month=2024-09).
 
  
