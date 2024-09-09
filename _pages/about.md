@@ -17,7 +17,7 @@ Email: <sotirios.damouras@utoronto.ca>
 Phone: 416.287.7269   
 
 **Office Hours**    
-If you want to talk to me about your studies, you can book an online meeting [here](https://calendly.com/sdamouras/office-hours?preview_source=et_card&month=2024-09).
+If you want to meet with me, you can [book a online appointment](https://calendly.com/sdamouras/office-hours?preview_source=et_card&month=2024-09).
 
  
 <!-- **Public Calendar**    
