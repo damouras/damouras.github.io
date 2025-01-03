@@ -12,7 +12,7 @@ I am Associate Professor, Teaching Stream in the [Department of Computer & Mathe
 ---- 
 
 **Contact**    
-Office: IA4016 ([Sam Ibrahim Building](https://www.utsc.utoronto.ca/home/sites/utsc.utoronto.ca.home/files/docs/UTSC_Campus_Map.pdf))   
+Office: IA4116 ([Sam Ibrahim Building](https://www.utsc.utoronto.ca/home/sites/utsc.utoronto.ca.home/files/docs/UTSC_Campus_Map.pdf))   
 Email: <sotirios.damouras@utoronto.ca>   
 Phone: 416.287.7269   
 
