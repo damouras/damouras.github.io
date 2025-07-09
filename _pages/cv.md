@@ -12,8 +12,8 @@ redirect_from:
 
 ### Work experience
 
-+ 2025 – present: *Professor, Teaching Stream*, University of Toronto Scarborough
-+ 2018 – 2025: *Associate Professor, Teaching Stream*, University of Toronto Scarborough
++ 2025–present: *Professor, Teaching Stream*, University of Toronto Scarborough
++ 2018–25: *Associate Professor, Teaching Stream*, University of Toronto Scarborough
 + 2012-18: *Assistant Professor, Teaching Stream*, University of Toronto Scarborough
 + 2011: *Lecturer (Contractually Limited)*, University of Toronto Mississauga
 + 2010: *Sessional Lecturer*, - University of Toronto
