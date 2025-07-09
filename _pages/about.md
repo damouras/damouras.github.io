@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Professor, Teaching Stream in the [Department of Computer & Mathematical Sciences](http://www.utsc.utoronto.ca/cms/) at the [University of Toronto Scarborough](https://www.utsc.utoronto.ca/home/). I teach courses in Statistics and Quantitative Finance, and I supervise the [Specialist Program in Statistics](https://utsc.calendar.utoronto.ca/specialist-program-statistics-science).
+I am a Professor, Teaching Stream in the [Department of Computer & Mathematical Sciences](http://www.utsc.utoronto.ca/cms/) at the [University of Toronto Scarborough](https://www.utsc.utoronto.ca/home/). I teach courses in Statistics and Quantitative Finance, and I supervise the [Specialist Program in Statistics](https://utsc.calendar.utoronto.ca/specialist-program-statistics-science).
 
 ---- 
 
