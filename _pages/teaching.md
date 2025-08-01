@@ -9,7 +9,7 @@ List of courses I am teaching
 
 ### Summer 2025
 + Green Path Summer School 
-([data](/files/gapminder_data.csv), [slides](files/Presentation.pptx) )
+([data](/files/gapminder_data.csv), [slides](/files/Presentation.pptx), [solutions](/files/solutions.ipynb) )
 + STAB52H3 Introduction to Probability
 
 
