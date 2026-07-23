@@ -22,6 +22,6 @@ Please check below for office hours and availability.
 
 
 **Online Office Hours**    
-You can meet with me virtually by [booking an online appointment](https://calendly.com/sdamouras/office-hours?preview_source=et_card&month=2024-09).
+You can meet with me virtually by [booking an online appointment](https://outlook.office.com/bookwithme/user/d1ed8dd270484f44a88fa03c0f57f573@utoronto.ca/meetingtype/WjyGnSKh3Uey0LAOwE_bQg2?bookingcode=0c102af8-b2bf-43a0-b2c4-fe01d5195576&anonymous&ismsaljsauthenabled&ep=mlink).
 
  
